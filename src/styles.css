@@ -1,0 +1,41 @@
+body {
+    font-family     : 'Montserrat', sans-serif;
+    display         : flex;
+    justify-content : center;
+}
+
+label {
+    color         : #444444;
+    display       : block;
+    margin-bottom : 5px;
+}
+
+input {
+    background : #E5E5E5;
+    border     : 1px solid #E5E5E5;
+    color      : #666666;
+    height     : 35px;
+    box-sizing : border-box;
+    margin     : 0 0 10px;
+    padding    : 0 5px;
+    font-size  : 15px;
+    width      : 180px;
+}
+h1 {
+    max-width : 500px;
+}
+button {
+    background-color : #10B76F;
+    border           : 1px solid transparent;
+    color            : #FFFFFF;
+    cursor           : pointer;
+    display          : inline-block;
+    font             : bold 14px "Montserrat", sans-serif;
+    text-align       : center;
+    text-decoration  : none;
+    text-transform   : uppercase;
+    border-radius    : 0;
+    height           : 35px;
+    line-height      : 30px;
+    vertical-align   : top;
+}

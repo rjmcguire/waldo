@@ -14,4 +14,4 @@ This repository should give you a good idea of the technologies you'll be using,
 4. Find a TODO, implement it, rinse, repeat
 
 ## Socket Server
-Can be found at `104.199.6.31:8085`
+Can be found at `104.199.6.31:8085`. The server emits redux actions (plain Javascript objects) as `server_response` events to connected clients

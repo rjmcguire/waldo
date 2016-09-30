@@ -1,7 +1,7 @@
 {
   "jspm": {
     "dependencies": {
-      "jsx": "github:floatdrop/plugin-jsx@^1.2.1",
+      "babel-plugin-transform-react-jsx": "npm:babel-plugin-transform-react-jsx@^6.8.0",
       "react": "npm:react@^15.3.2",
       "react-dom": "npm:react-dom@^15.3.2",
       "react-redux": "npm:react-redux@^4.4.5",

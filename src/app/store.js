@@ -1,5 +1,5 @@
 import { applyMiddleware, compose, createStore } from 'redux';
-import dev_tools from './dev_tools.jsx!'
+import dev_tools from './dev_tools.js'
 import middleware from './middleware.js'
 import reducer from './reducer.js'
 import io from 'socket.io-client'

@@ -1,6 +1,6 @@
 import React from 'react'
 import {connect} from 'react-redux'
-import { sendAnswer } from 'app/actions.js'
+import { sendAnswer } from './actions.js'
 
 class FormComponent extends React.Component {
 	constructor(props) {
